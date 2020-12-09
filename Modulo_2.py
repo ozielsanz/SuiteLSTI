@@ -3,7 +3,6 @@ from lxml import html
 import os
 import logging
 from pyhunter import PyHunter
-import json
 import socket
 from PIL.ExifTags import TAGS, GPSTAGS
 from PIL import Image
